@@ -1,9 +1,3 @@
-# IntelliInvest and Other Projects
-
-A collection of mobile applications developed with Flutter, showcasing expertise in cross-platform development, UI/UX design, and performance optimization.
-
----
-
 ## Projects
 
 ### [IntelliInvest: Stock App](https://play.google.com/store/apps/details?id=com.intelli.intelliinvest)
